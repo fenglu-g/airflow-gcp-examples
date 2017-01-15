@@ -14,6 +14,7 @@ a quick rundown of what you need:
 * Setup a Google Cloud Connection in Airflow
 * Setup variables that the DAG's will need
 * Copy the DAG's to your dags folder
+* Run gcp_setup.sh to prepare the environment.
 
 ### Airflow setup
 
